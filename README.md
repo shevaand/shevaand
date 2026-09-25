@@ -1,6 +1,6 @@
 # Hi, I'm Andrey 👋
 
-### Junior Web Developer | React & Next.js | TypeScript
+###  Web Developer | React & Next.js | TypeScript
 
 I'm a Junior Web Developer focused on building modern, responsive web applications with React, Next.js, and TypeScript.
 
