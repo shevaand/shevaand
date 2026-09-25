@@ -1,4 +1,4 @@
-# Hi, I'm Andrey 👋
+# Hi, I'm Andrii 👋
 
 ###  Web Developer | React & Next.js | TypeScript
 
