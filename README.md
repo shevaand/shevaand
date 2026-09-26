@@ -100,8 +100,8 @@ Weather application built with vanilla JavaScript and the Open-Meteo API.
 
 I'm currently looking for opportunities as a:
 
-- Junior Web Developer
-- Junior Frontend Developer
+- Web Developer
+- Frontend Developer
 - IT Support / Web-related position
 - Internship or entry-level developer
 
